@@ -1,0 +1,5 @@
+{
+  "name": "mory.board",
+  "description": "A self-destructing secret message board. Messages are encrypted client-side, given a Gemini-generated codename, and destroyed upon successful decryption.",
+  "requestFramePermissions": []
+}
